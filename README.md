@@ -13,3 +13,5 @@ Hail
 Samples/Hour
 
 Python module scikit-learn for machine learning will be used.
+[![DOI](https://zenodo.org/badge/880578049.svg)](https://doi.org/10.5281/zenodo.14894946)
+
